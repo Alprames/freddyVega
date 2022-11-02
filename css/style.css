@@ -3,7 +3,8 @@ body {
     padding: 0 auto;
     text-align: center;
     font-family: arial;
-    color: #111;
+    color: #666;
+    background-color: papayawhip;
 }
 .container {
     margin: 2em;
