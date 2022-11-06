@@ -1,0 +1,1 @@
+Aquí editamos un texto a través de nano, creo que se vuelve bastante útil hacerlo de esta forma porque no tendría que abrir el blog de notas, sino simplemente usar la misma terminal para hacer lo q se me de la puta
